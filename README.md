@@ -38,7 +38,9 @@
     * find customer orders page
 - **Payment Service**: The service allows customers to do the payment.
     * do payment
-- **Notification Service**: is a service to consume and process the received notification messages.
+- **Notification Service**: is a service to consume and process the received notification messages
+  * send the order confirmation email
+  * send the payment confirmation email
 - **Mail Service**: is a service, used for sending the notification mail to the customers.
 
 ## <u>Used Technologies & Tools:</u>
