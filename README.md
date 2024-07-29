@@ -45,22 +45,24 @@
 - Spring boot
 - Spring JPA
 - Spring validation
-- Spring cloud
+- Spring Cloud
 - Netflix eureka client and server
-- spring cloud gateway and load balancer
+- Spring Cloud Gateway
+- Spring Cloud Load Balancer
+- Spring Cloud Zipkin
 - OpenFeign
 - Liquibase
-- mapstruct
+- MapStruct
 - Lombok
 - ControllerAdvice
-- Spring cloud Zipkin
 - Postgres DB
+- Materialized View
 - Mongo DB
 - Keycloak
 - Kafka and zookeeper
 - Docker
 - Docker Compose
-- tomcat Server
+- Tomcat Server
 - IntelliJ IDE
 - Mongo express
 - DBeaver
