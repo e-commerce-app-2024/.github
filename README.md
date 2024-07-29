@@ -30,6 +30,7 @@
     * delete product
     * find product by ID
     * find products page
+    * get random product list
     * purchase products
 - **Order service**: The service allows customers to create orders and make purchases.
     * create order
