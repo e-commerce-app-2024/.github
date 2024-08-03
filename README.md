@@ -37,7 +37,10 @@
     * find order by ID
     * find customer orders page
 - **Payment Service**: The service allows customers to do the payment.
-    * do payment
+    * create payment
+    * filter payments
+    * get payment by Id
+    * get payment by order reference
 - **Notification Service**: is a service to consume order/payment confirmation messages from Kafka topics, then send notifications email to the customers.
   * send the order confirmation email
   * send the payment confirmation email
@@ -68,6 +71,14 @@
 - IntelliJ IDE
 - Mongo express
 - DBeaver
+
+## <u>Software Architecture And Design:</u>
+- Microservices Architecture
+- MVC
+- Adapter DP
+- SOLID
+- SAGA Pattern
+- Materialized View
 
 ## <u>Repo:</u>
 
