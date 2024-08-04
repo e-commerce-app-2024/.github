@@ -32,10 +32,12 @@
     * find products page
     * get random product list
     * purchase products
+    * get products info by ID list
 - **Order service**: The service allows customers to create orders and make purchases.
     * create order
     * find order by ID
     * find customer orders page
+    * get orders report
 - **Payment Service**: The service allows customers to do the payment.
     * create payment
     * filter payments
